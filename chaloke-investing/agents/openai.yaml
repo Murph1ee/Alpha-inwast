@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chaloke Investing · บทเรียนลุงโฉลก"
+  short_description: "อ่านแนวโน้ม วางแผนความเสี่ยง และทบทวนวินัยจาก LSL1"
+  default_prompt: "ใช้ $chaloke-investing ช่วยตรวจกราฟและแผนเทรดนี้ โดยแยกหลักฐาน เงื่อนไขยืนยัน จุดหักล้าง และความเสี่ยง"
